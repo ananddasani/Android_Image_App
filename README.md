@@ -24,7 +24,7 @@ public class VolleySingleton {
 
         return mInstance;
     }
-}T
+}
 ```
 
 ### ModelClass.java
